@@ -4,4 +4,4 @@ Website developed for learning purposes based on the project [netflix-clone](htt
 
 ### Live Demo
 
-Check the result hosted on [https://matheuspuel.github.io/netflix-interface/index.html](https://matheuspuel.github.io/netflix-interface/index.html).
+Check the result hosted on [https://matheuspuel.github.io/netflix-interface](https://matheuspuel.github.io/netflix-interface).
